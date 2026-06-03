@@ -1,0 +1,4 @@
+﻿  mag2_lab2.cpp
+C:\Users\Ksenia\Desktop\М2\Крипта\mag2_lab2\mag2_lab2\mag2_lab2.cpp(10,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ksenia\Desktop\М2\Крипта\mag2_lab2\mag2_lab2\mag2_lab2.cpp(37,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  mag2_lab2.vcxproj -> C:\Users\Ksenia\Desktop\М2\Крипта\mag2_lab2\x64\Debug\mag2_lab2.exe
